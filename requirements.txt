@@ -1,0 +1,4 @@
+matplotlib
+mysql-connector-python
+sqlalchemy
+streamlit==1.3.1
