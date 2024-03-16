@@ -5,9 +5,9 @@ THIS CODE FILE CONTAINS THE CODE FOR MAIN APP OF THE WEB STORAGE APP.
 THIS FILE DEFINES A main() FUNCTION THAT WILL BE EXECUTED WHEN THE APP RUNS. INSIDE THIS FUNTION ALL THE OTHER MENU TABS OF THE APP IS CALLED.
 """
 
-!pip install mysql
-!pip install sqlalchemy
-!pip install matplotlib
+pip install mysql
+pip install sqlalchemy
+pip install matplotlib
 
 from dependancies import *
 from home import *
