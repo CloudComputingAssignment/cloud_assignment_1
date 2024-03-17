@@ -5,7 +5,7 @@ config = {
     'port':'1433',
     'user':'ommair-01',
     'password':'Omm@ir510219900',
-    'database':'cloud-assignment'
+    'database':'user_database'
 }
 
 # Establish a connection
