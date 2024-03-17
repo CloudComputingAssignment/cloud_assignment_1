@@ -8,6 +8,7 @@ config = {
     'database':'u317157586_cc_asg'
 }
 
+
 # config = {
 #     'host':'cloud-assignment-1.database.windows.net',
 #     'port':'1433',
