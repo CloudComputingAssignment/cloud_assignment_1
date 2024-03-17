@@ -6,12 +6,10 @@ THIS FILE DEFINES A main() FUNCTION THAT WILL BE EXECUTED WHEN THE APP RUNS. INS
 """
 
 
-
- from dependancies import *
- from home import *
- from login import *
-
- from about import *
+from dependancies import *
+from home import *
+from login import *
+from about import *
 
 
 
